@@ -1,4 +1,4 @@
-# supervise-machine-learning-challenge
+# supervised-machine-learning-challenge
 
 The supervise-machine-learning-challenge is a project to utilized the logistic regression and random forest classifier models to see which model performs better for predicting loan risk. 
 ## Data 
